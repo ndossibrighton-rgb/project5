@@ -13,4 +13,6 @@ The login form is designed to authenticate users and grant access to the report 
 The backend handles the logic for user authentication and data storage, while the frontend provides a user-friendly interface for interaction.
 </body>
 
+<p> Database mainly postgress ,Frontend with html and css , backend with JS .
+
 </html>
