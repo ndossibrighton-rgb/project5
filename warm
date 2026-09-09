@@ -7,6 +7,10 @@
 </head>
 <body>
 water is clean and neat.Drink clean water to stay healthy and hydrated. 
+Assignment concerning desgning a login form and report form built with frontend
+backend and a database.
+The login form is designed to authenticate users and grant access to the report form, which allows users to submit their reports securely.
+The backend handles the logic for user authentication and data storage, while the frontend provides a user-friendly interface for interaction.
 </body>
 
 </html>
